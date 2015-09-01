@@ -11,7 +11,7 @@
 *  <a href="http://largescalejs.ru/" target="_blank">Паттерны для масштабируемых JavaScript-приложений</a>, Эдди Османи
 
 ### Отслеживаемые интернет-ресурсы
-* [Рубрика Фронтенд на Habrahabr](http://habrahabr.ru/posts/frontend/)
-* [Frontender Magazine](http://frontender.info/)
-* [Javascript.ru](https://learn.javascript.ru/)
-* [Codrops](http://tympanus.net/codrops/)
+* <a href="http://habrahabr.ru/posts/frontend/" target="_blank">Рубрика Фронтенд на Habrahabr</a>
+* <a href="http://frontender.info/" target="_blank">Frontender Magazine</a>
+* <a href="https://learn.javascript.ru/" target="_blank">Javascript.ru</a>
+* <a href="http://tympanus.net/codrops/" target="_blank">Codrops</a>

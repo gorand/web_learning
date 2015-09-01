@@ -10,5 +10,8 @@
 *  <a href="http://karmazzin.gitbooks.io/eloquentjavascript_ru/" target="_blank">Выразительный Javascript</a>, Марейн Хавербек
 *  <a href="http://largescalejs.ru/" target="_blank">Паттерны для масштабируемых JavaScript-приложений</a>, Эдди Османи
 
-### Отслеживаемые новости ресурсов
-* (Рубрика Фронтенд на Habrahabr)[http://habrahabr.ru/posts/frontend/]
+### Отслеживаемые интернет-ресурсы
+* [Рубрика Фронтенд на Habrahabr](http://habrahabr.ru/posts/frontend/)
+* [Frontender Magazine](http://frontender.info/)
+* [Javascript.ru](https://learn.javascript.ru/)
+* [Codrops](http://tympanus.net/codrops/)

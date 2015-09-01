@@ -7,5 +7,7 @@
 *  <a href="http://www.ozon.ru/context/detail/id/8747299/" target="_blank">Отзывчивый веб-дизайн</a>, Итан Маркотт
 *  (частично) <a href="http://www.ozon.ru/context/detail/id/1332088/" target="_blank">Интерфейс: новые направления в проектировании компьютерных систем</a>, Джеф Раскин
 *  (частично) <a href="http://www.ozon.ru/context/detail/id/19677670/" target="_blank">JavaScript. Подробное руководство</a>, Дэвид Флэнаган
+*  <a href="http://karmazzin.gitbooks.io/eloquentjavascript_ru/" target="_blank">Выразительный Javascript</a>, Марейн Хавербек
+*  <a href="http://largescalejs.ru/" target="_blank">Паттерны для масштабируемых JavaScript-приложений</a>, Эдди Османи
 
 

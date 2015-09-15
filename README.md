@@ -9,6 +9,8 @@
 *  (частично) <a href="http://www.ozon.ru/context/detail/id/19677670/" target="_blank">JavaScript. Подробное руководство</a>, Дэвид Флэнаган
 *  <a href="http://karmazzin.gitbooks.io/eloquentjavascript_ru/" target="_blank">Выразительный Javascript</a>, Марейн Хавербек
 *  <a href="http://largescalejs.ru/" target="_blank">Паттерны для масштабируемых JavaScript-приложений</a>, Эдди Османи
+*  <a href="http://djbook.ru/index/" target="_blank">Книга по Django 1.1</a>
+
 
 ### Отслеживаемые интернет-ресурсы
 * <a href="http://habrahabr.ru/posts/frontend/" target="_blank">Рубрика Фронтенд на Habrahabr</a>

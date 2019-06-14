@@ -14,7 +14,5 @@
 
 
 ### Отслеживаемые интернет-ресурсы
-* <a href="http://habrahabr.ru/posts/frontend/" target="_blank">Рубрика Фронтенд на Habrahabr</a>
-* <a href="http://frontender.info/" target="_blank">Frontender Magazine</a>
 * <a href="https://learn.javascript.ru/" target="_blank">Javascript.ru</a>
 * <a href="http://tympanus.net/codrops/" target="_blank">Codrops</a>
